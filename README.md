@@ -1,5 +1,5 @@
 # Waterhouse-s-Theorem
-Waterhouse's classification theorem on Elliptic curves, defined over a finite field
+Waterhouse's classification theorem on Elliptic curves, defined over a finite field Fq   
 
 Theorem:    
 Let q = p^n be a power of a prime and p,a are in Z and N = q + 1 - a.   
