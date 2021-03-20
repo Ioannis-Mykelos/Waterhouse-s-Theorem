@@ -2,7 +2,7 @@
 Waterhouse's classification theorem on Elliptic curves, defined over a finite field Fq.      
 
 Theorem:    
-Let q = p^n be a power of a prime and p,a are in Z and N = q + 1 - a.   
+Let q = p^n be a power of a prime and p, and a in Z, and N = q + 1 - a.   
 There is an elliptic curve E defined over Fq = Fp^n such that:   
 #E(Fq) = N iff |a|<= 2sqrt(q) and a satisfies one of the following:   
 (1.) gcd(a,p)=1.   
